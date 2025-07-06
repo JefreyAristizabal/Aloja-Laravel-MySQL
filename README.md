@@ -35,4 +35,4 @@ Aloja-Laravel-MySQL/
 ├── composer.json
 └── package.json
 
-**Make migrations to make it work, database name: adminaloja. Migrate Command: php artisan migrate**
+**Make migrations to make it work, database name: adminaloja. Migrate Command:** `php artisan migrate`
